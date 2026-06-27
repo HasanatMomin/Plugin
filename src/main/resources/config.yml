@@ -1,0 +1,23 @@
+database:
+  file: "plugins/McPvP/playerdata.db"
+
+queue:
+  max-size: 500
+  auto-match: true
+  max-rating-gap: 200
+
+duel:
+  countdown-seconds: 5
+  enable-teleport: false
+
+ranking:
+  starting-rating: 1000
+  win-gain: 25
+  loss-loss: 20
+  draw-gain: 5
+
+arena:
+  world-name: "world"
+
+messages:
+  prefix: "&8[&bMcPvP&8] "
