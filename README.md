@@ -1,4 +1,4 @@
-# McPvP
+# McPvP FANMADE PLUGIN
 
 Competitive PvP plugin for Paper 26.1.2.
 
