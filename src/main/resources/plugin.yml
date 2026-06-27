@@ -2,7 +2,7 @@ name: McPvP
 version: ${version}
 main: com.hasanatmomin.mcpvp.McPvpPlugin
 api-version: "26.1.2"
-author: Copilot
+author: Maplized
 description: Competitive PvP infrastructure plugin with queueing, matchmaking, duels, and persistent ranking.
 
 commands:
